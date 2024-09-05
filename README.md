@@ -33,10 +33,17 @@ python cli.py test --experiment experiments/{experiment_id}/
 ```
 
 ```bibtex
-@article{pereira2024context,
-  title={ConText at WASSA 2024 Empathy and Personality Shared Task: History-Dependent Embedding Utterance Representations for Empathy and Emotion Prediction in Conversations},
-  author={Pereira, Patr{\'\i}cia and Moniz, Helena and Carvalho, Joao Paulo},
-  journal={arXiv preprint arXiv:2407.03818},
-  year={2024}
+@inproceedings{pereira-etal-2024-context,
+    title = "{C}on{T}ext at {WASSA} 2024 Empathy and Personality Shared Task: History-Dependent Embedding Utterance Representations for Empathy and Emotion Prediction in Conversations",
+    author = "Pereira, Patr{\'\i}cia  and
+      Moniz, Helena  and
+      Carvalho, Joao Paulo",
+    booktitle = "Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment, {\&} Social Media Analysis",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.wassa-1.42",
+    pages = "448--453",
 }
 ```
